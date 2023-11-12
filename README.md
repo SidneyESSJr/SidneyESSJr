@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Programming....](https://www.hubplural.com/wp-content/uploads/2019/12/jim-carey-cafe-computador.gif)
+[Programming....](https://www.hubplural.com/wp-content/uploads/2019/12/jim-carey-cafe-computador.gif)
 
 <!--
 **SidneyESSJr/SidneyESSJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
